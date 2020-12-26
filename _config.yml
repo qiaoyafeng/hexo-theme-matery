@@ -95,9 +95,9 @@ music:
 video:
   enable: true
   showTitle: true
-  title: 华为云区块链
-  url: https://bbs-video.huaweicloud.com/video/media/20181008/20181008165411_12701.mp4 # 必填
-  pic:
+  title: 生活相册
+  url: /medias/videos/album.mp4 # 必填
+  pic: /medias/videos/album-pic.jpg
   thumbnails:
   height: # 如：400
   autoplay: false # 是否自动播放
