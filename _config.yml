@@ -66,8 +66,14 @@ cover:
 dream:
   enable: true
   showTitle: true
-  title: 我的梦想
-  text: 不是每个人都应该像我这样去建造一座水晶大教堂，但是每个人都应该拥有自己的梦想，设计自己的梦想，追求自己的梦想，实现自己的梦想。梦想是生命的灵魂，是心灵的灯塔，是引导人走向成功的信仰。有了崇高的梦想，只要矢志不渝地追求，梦想就会成为现实，奋斗就会变成壮举，生命就会创造奇迹。——罗伯·舒乐
+  title: 名人名言
+  text: 五岁的时候，妈妈告诉我，快乐是人生的关键。
+  
+        上学以后，他们问我，长大后的志愿梦想是什么?
+        
+        我写下“快乐”,他们说我没搞清楚题目，我告诉他们是他们没搞清楚人生。
+        
+        -- 约翰·列侬
 
 # Whether to display the musics.
 # 是否在首页显示音乐.
@@ -582,8 +588,8 @@ subtitle:
   startDelay: 300 # 开始延迟
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
-  sub1: 从来没有真正的绝境, 只有心灵的迷途
-  sub2: Never really desperate, only the lost of the soul
+  sub1: 有些地方我永远不会忘记，在我一生中尽管有些已经变迁
+  sub2: There are places I remember,All my life though some have changed
 
 # 手机二级菜单.
 navMenu:
