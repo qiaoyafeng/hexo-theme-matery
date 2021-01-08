@@ -339,16 +339,16 @@ livere:
 # To use it, activate the configuration item and set appId and appKey.
 # Valine 评论模块的配置，默认为不激活，如要使用，就请激活该配置项，并设置 appId 和 appKey.
 valine:
-  enable: false
-  appId:
-  appKey:
+  enable: true
+  appId: J0L6VX7WTwpcDElhuPMaY5jl-gzGzoHsz
+  appKey: W2DYOF8yi4hTBLjMFMSFv0jO
   notify: false
   verify: false
   visitor: true
   avatar: 'mm' # Gravatar style : mm/identicon/monsterid/wavatar/retro/hide
   pageSize: 10
-  placeholder: 'just go go' # Comment Box placeholder
-  background: /medias/comment_bg.png
+  placeholder: '在这里输入您的评论' # Comment Box placeholder
+  background: #/medias/comment_bg.png
 
 # The configuration of the MiniValine comment module is not activated by default.
 # To use it, activate the configuration item and set appId and appKey.
