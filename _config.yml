@@ -653,3 +653,10 @@ bbtime:
  appId: # 你的appId
  appKey: # 你的appKey
  serverURLs: # https://你的api
+ 
+# 播放器
+aplayer:
+ enable: true 
+dplayer:
+ enable: true  
+ 
